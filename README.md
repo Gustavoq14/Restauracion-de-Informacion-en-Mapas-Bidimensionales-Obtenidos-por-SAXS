@@ -5,4 +5,4 @@ El siguiente repositorio contiene el código desarrollado en el trabajo títulad
 
 En el repositorio se encuentran dos notebooks:
 - Restauración_I, donde se aplican los algoritmos de restauración de imágenes a los mapas de transmisión y aborsición de una muestra con una sola densidad electrónica.
-- Restauración_II, donde se aplican los algoritmos de restauración de imágenes al mapa dispersión de una muestra con dos densidades electrónica.
+- Restauración_II, donde se aplican los algoritmos de restauración de imágenes al mapa dispersión de una muestra con dos densidades electrónicas.
